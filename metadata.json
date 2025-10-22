@@ -1,0 +1,5 @@
+{
+  "name": "Veo Trend Video Generator",
+  "description": "An AI-powered application that finds trending topics, generates a two-part story, creates corresponding images, and produces two sequential videos using Google's Veo and Imagen models.",
+  "requestFramePermissions": []
+}
